@@ -1,4 +1,4 @@
-baseurl = "https://ondenge.me"
+baseurl = ""
 title = "William Ondenge"
 
 theme = "hugo-coder"
